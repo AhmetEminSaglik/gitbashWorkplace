@@ -3,4 +3,6 @@ second line will be added in 2. commit
 
                    
 third line should be green
-git add yapildiktan sonra yeni eklemeler sonrasi local deki degisikligi gormek icin git diff yaziyoruz
+git add yapildiktan sonra yeni eklemeler sonrasi local deki degisikligi gormek icin git diff yaziyorum
+git diff ve git diff -staged komut farki incelenecek
+asdasd
