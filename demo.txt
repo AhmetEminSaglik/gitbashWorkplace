@@ -1,4 +1,6 @@
-burasi bir sonraki git add de silinip  git diff ile kirmizi seklinde gorunmeli
 first text
 second line will be added in 2. commit
 
+                   
+third line should be green
+git add yapildiktan sonra yeni eklemeler sonrasi local deki degisikligi gormek icin git diff yaziyoruz
