@@ -1,4 +1,0 @@
-dot demo text
- .gitignore gibi  "." ile baslayanlar "git add *" ile alinamazkesn "git add ."i le alinabilmektedir
-
-
