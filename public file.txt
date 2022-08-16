@@ -6,5 +6,3 @@ dort
 iki
 -----------------
 public-file branch icindeyiz ve bu satir eklendi
-
- 
