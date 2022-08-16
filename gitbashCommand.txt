@@ -1,16 +1,5 @@
 Command in order :
 
-Sira : 
-git branch yeniBranchAdi
-git checkout yeniBranchAdi
-git status
-git add -A
-git push -u origin yeniBranchAdi
-git checkout master
-git pull origin master
-git merte yeniBranchAdi
-git push origin master
-
 
 
 
