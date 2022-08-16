@@ -1,0 +1,32 @@
+git reset master    -->(master dedigi branch) bunu yazinca git commit iptal ediliyor
+git  --version
+git config --list
+git remote -v
+git branch -a
+--- alttaki 2 satir da merge sirasinda conflict sorunu olunca mergelemeyi iptal eder
+git merge --abort  
+git reset --merge
+---
+git pull <remote> <branch> conflict olmayacak sekilde merge ediyor
+git branch --merged // check successful merge
+git merge <branch> //conflict yoksa direk mergeler
+git log  veya git reflog  ile gelen commit degerlerden birisini alip    //reflog private  workspace-specific  ,  log  is a public accounting of repository's commit history
+git reset --hard  <reflog/log degerleri> yazilinca  committe ne varsa onlar geliyor
+
+
+
+Sira : 
+git branch yeniBranchAdi
+git checkout yeniBranchAdi
+git status
+git add -A
+git push -u origin yeniBranchAdi
+git checkout master
+git pull origin master
+git merte yeniBranchAdi
+git push origin master
+
+
+
+
+

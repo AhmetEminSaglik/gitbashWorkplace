@@ -1,0 +1,5 @@
+
+git ignore
+/myProject --> bu klasoru gorunmez yapar
+git\ Bash\ commands.txt --> adini yazinca o file'i gorunmez yapar
+.gitignore --> bu dosyayi da boylece saklayabiliriz
