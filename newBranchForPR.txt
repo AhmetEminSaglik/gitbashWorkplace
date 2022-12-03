@@ -1,4 +1,0 @@
-
-git checkout -b SNODE-4-github-jira-connection-commit-push
-added command  to create a new PR
-
