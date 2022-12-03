@@ -1,12 +1,12 @@
 Command in order :
 
-Sira :
-git branch yeniBranchAdi
+Order:
+git branch newBranchName
 git checkout yeniBranchAdi
 git status
 git add -A
-git push -u origin yeniBranchAdi
+git push -u origin newBranchName
 git checkout master
 git pull origin master
-git merte yeniBranchAdi
+git merte newBranchName
 git push origin master
