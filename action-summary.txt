@@ -4,6 +4,9 @@ and commit should start with this key. But dont know is there any problem while 
 
 So stages to test : 
 Does commit  with prefix work? YES IT WORKS
-Is camelCase important? for commit it is not important but I will test this also for branch name
+Is camelCase important? 
+-for commit it is not important but I will test this also for branch name
+-for branch no it is not important. 
+
 
 
