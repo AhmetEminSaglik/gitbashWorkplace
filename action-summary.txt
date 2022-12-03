@@ -3,5 +3,6 @@ The key is ticket (for this ticket) SNODE-6.
 and commit should start with this key. But dont know is there any problem while adding prefix during commit
 
 So stages to test : 
-Does commit  with prefix work?
-Is Character must be same?
+Does commit  with prefix work? YES IT WORKS
+Is camelCase important?
+
