@@ -1,4 +1,20 @@
 git log --oneline 
 --> shows all commits in one line.
 
+checkout commit
 
+revert commit
+reset commit
+
+randoma commit
+
+
+
+
+
+
+
+
+EXPLANATION :
+--> checkout to Old or latest commitId, have to create a new branch
+--> reset to old commitId, deletes next commits of the entered commitId
