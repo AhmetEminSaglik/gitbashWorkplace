@@ -1,0 +1,4 @@
+git log --oneline 
+--> shows all commits in one line.
+
+
